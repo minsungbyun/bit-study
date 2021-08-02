@@ -34,13 +34,13 @@ git push
 
 ## team member github URL
 
-- [문세철]
+- [Sechul's github](https://github.com/gooddaymsc)
 
-- [minsung's github](https://github.com/minsungbyun)
+- [Minsung's github](https://github.com/minsungbyun)
 
-- [이서은]
+- [Shuen's github](https://github.com/leeseoeun)
 
-- [윤수민]
+- [Sumin's github](https://github.com/Sumin-yun)
 
 
 
