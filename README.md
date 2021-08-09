@@ -24,7 +24,8 @@
   - [ ] study-project 반복
   - [ ] 블로그 포스팅 TIL
 - ## 이서은
-  -
+  - java-basic oop
+  - java-project
 - 윤수민
   - [ ] 수업내용 복습
   - [ ] 자바의정석 수업관련 예제 문제 풀이.
